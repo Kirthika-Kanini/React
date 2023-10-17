@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import { variables } from "./Variable";
-import "bootstrap/dist/css/bootstrap.min.css"; // Import Bootstrap CSS
 
 class StudentPost extends Component {
   constructor(props) {
